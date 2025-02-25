@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @derahhayes
-- 👀 I’m interested in django, python, react native
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in django, python, react native, NextJS, prisma, react.  
+- 🌱 I’m currently learning JSX
+- 💞️ I’m looking to collaborate on data project and the delivery of enterprise systems  
 - 📫 How to reach me email dermot.hayes@derahsoftware.com
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I once did an Ironman
